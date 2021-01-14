@@ -1,0 +1,187 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+
+}
+
+
+body {
+	width: 100%;
+	height: 100%;
+	background: url('картинки/bg.jpg');	
+	
+}
+
+.bg {
+	background: url('картинки/shadow.png') top left repeat-x;
+}
+#header {
+	padding: 20px;
+	height: 120px;
+}
+
+img {
+	width: 200px;
+	float: left;
+	margin: 5px 10px 0px 0;
+	border-radius: 6px;
+}
+
+#glav {
+	color: #ffffff;
+	float: left;
+	margin-top: 80px;
+	margin-left: 80px;
+	font-family: Lobster, cursive;
+	font-size: 1.5em;
+	
+	
+}
+.mane{
+	margin-left: 300px;
+	float: left;
+}
+
+li{
+	font-size: 1.3em;
+	float: left;
+	line-height: 53px;
+	display: inline;
+	margin-top: 85px;
+	margin-left: 30px;
+}
+li a {
+	color: White;	
+}
+li a:hover {
+	color: #ffffff;
+	background: #9A9A9A;
+	border: 2px solid silver;
+	border-radius: 6px;
+	padding: 4px;
+	box-shadow: 10px 10px 10px black; /*тень заднего фона*/
+	
+}
+a:hover {
+	color: red;
+	transition: all.6s ease; /* Сыллки будут менять цвет плвана */
+	/* -moz-transition: all.6s ease; */
+    /* -webkit-transition: all.6s ease; */
+	/* -ms-transition: all.6s ease; */
+
+}
+	
+	
+	
+.left_block{
+	height: 600px;
+	width: 350px;
+	border: 0.1px solid silver;
+	margin-left: 90px;
+	margin-top: 60px;
+	background-color: #414141;
+	border-radius: 10px;
+
+}
+#left_block_1{
+ padding: 20px;
+ 
+}
+
+#left_block_1 h2{
+	font-family: Lobster, cursive;
+	font-size: 1.5em;
+	color: #ffffff;
+}
+#left_block_1 p{
+	margin: 5px;
+	color: #ffffff;
+	font-family: Lobster, cursive;
+}
+#left_block_1 a:hover{
+	color:#5296FA;
+}
+#left_block_1 hr{
+	border: 0.5px dotted silver;
+}
+
+.center{
+	margin-top: -600px;
+	margin-left: 500px;
+	height: 700px;
+	width: 750px;
+	border: 2px solid silver;
+	float: left;
+	background: #ffffff;
+	border-radius: 10px;
+	padding: 15px;
+	
+}
+#center_1 p {
+	color: #565656;
+	font-family: fantazy;
+	font-size: 1.2em
+}
+#block_2 {
+	width: 360px;
+	float: left;
+	min-height: 50%;
+}
+#block_2 #block_2_1 {
+	font-family: fantazy;
+	font-size: 1.1em
+}
+#block_2 h2 {
+	margin-left: 125px;
+}
+#block_2 h3 {
+	margin-left: 50px;
+}
+#block_2 hr{
+	border-radius: 5px;
+	border: 1px dotted silver;
+	width: 340px;
+    margin-left: 10px;	
+}
+
+#block_3 {		
+	width: 370px;
+	margin-left: 5px;
+	float: left;
+	min-height: 50%;
+}
+#block_3 h2 {
+	margin-left: 125px;
+}
+#block_3 #block_2_2 {
+	font-family: fantazy;
+	font-size: 1.1em
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
